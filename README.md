@@ -14,6 +14,7 @@ Check for the Licenses for each item.
 ### Key Switches
 
 * [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty)
+* [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch)
 
 ### Type-C Connectors
 
