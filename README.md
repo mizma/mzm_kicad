@@ -2,6 +2,14 @@
 
 KiCad library for various projects.  mainly keyboard and arcade controller related.
 
+## Licenses
+
+The original data marked as created by myself falls under CC-BY-NC/MIT dual license.
+
+All other content aggregated into this repository follows the original License set
+their respective authors/project owner.  See the LICENSE files in their respective
+directories for their licenses.
+
 ## Library Listing and sources
 
 Check for the Licenses for each item.
