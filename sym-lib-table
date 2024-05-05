@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
   (lib (name "mzm_kicad")(type "KiCad")(uri "${KIPRJMOD}/symbols/mzm_kicad.kicad_sym")(options "")(descr ""))
-  (lib (name "import")(type "KiCad")(uri "${KIPRJMOD}/symbols/import.kicad_sym")(options "")(descr ""))
 )
