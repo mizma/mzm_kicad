@@ -43,7 +43,23 @@ Random footprint libraries created by @mizma.
 
 ## LCSC Part information
 
-| Part Number   | Part Name | Description |
+Some Footprint parts I use on Keyboard/GP2040-CE projects
+
+| Part Number   | Footprint | Description |
 | :--           | :--       | :--         |
-| C2848619      | HRO_USB-C-SMD_TYPE-C-31-M-13C | USB-C Connector SMD-board sink |
-| C165948       | HRO-TYPE-C-31-M-12 | USB-C Connector SMD |
+| C1525         | `Capacitor_SMD:C_0402_1005Metric` | 100n Caps SMD |
+| C1570         | `Capacitor_SMD:C_0402_1005Metric` | 30p Caps SMD |
+| C52923        | `Capacitor_SMD:C_0402_1005Metric` | 1u Caps SMD |
+| C11702        | `Resistor_SMD:R_0402_1005Metric` | 1k Resistor SMD |
+| C23162        | `Resistor_SMD:R_0603_1608Metric` | 4.7k Resistor SMD |
+| C25744        | `Resistor_SMD:R_0402_1005Metric` | 10k Resistor SMD |
+| C25905        | `Resistor_SMD:R_0402_1005Metric` | 5.1k Resistor SMD |
+| C138021       | `Resistor_SMD:R_0402_1005Metric` | 27ohm Resistor SMD |
+| C2040         | `RP2040:RP2040-QFN-56` | RP2040 MCU |
+| C134139       | `Package_TO_SOT_SMD:SOT-23-5` | 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5 |
+| C9002         | `Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm` | Four pin crystal, GND on pins 2 and 4 |
+| C97521        | `Package_SO:SOIC-8_5.23x5.23mm_P1.27mm` | 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8 |
+| C165948       | `HRO-TYPE-C-31-M-12` | USB-C Connector SMD |
+| C2848619      | `HRO_USB-C-SMD_TYPE-C-31-M-13C` | USB-C Connector SMD-board sink |
+
+
