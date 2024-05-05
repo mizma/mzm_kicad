@@ -19,3 +19,10 @@ Check for the Licenses for each item.
 ### Type-C Connectors
 
 * [ai03-2725/Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty)
+
+## LCSC Part information
+
+| Part Number   | Part Name | Description |
+| :--           | :--       | :--         |
+| C2848619      | HRO_USB-C-SMD_TYPE-C-31-M-13C | USB-C Connector SMD-board sink |
+| C165948       | HRO-TYPE-C-31-M-12 | USB-C Connector SMD |
