@@ -1,0 +1,7 @@
+mzm_kicad-backups/
+*.bak
+*.zip
+*_info.txt
+*-backups
+fp-info-cache
+*.kicad_prl
