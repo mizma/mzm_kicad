@@ -56,9 +56,9 @@ Some Footprint parts I use on Keyboard/GP2040-CE projects
 | C25905        | `Resistor_SMD:R_0402_1005Metric` | 5.1k Resistor SMD |
 | C138021       | `Resistor_SMD:R_0402_1005Metric` | 27ohm Resistor SMD |
 | C2040         | `RP2040:RP2040-QFN-56` | RP2040 MCU |
-| C134139       | `Package_TO_SOT_SMD:SOT-23-5` | 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5 |
-| C9002         | `Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm` | Four pin crystal, GND on pins 2 and 4 |
-| C97521        | `Package_SO:SOIC-8_5.23x5.23mm_P1.27mm` | 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8 |
+| C134139       | `Package_TO_SOT_SMD:SOT-23-5` | TI TLV73333PDBVR 300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5 |
+| C9002         | `Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm` | YXC X322512MSB4SI Four pin crystal, GND on pins 2 and 4 |
+| C97521        | `Package_SO:SOIC-8_5.23x5.23mm_P1.27mm` | Winbond Elec W25Q128JVSIQ 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8 |
 | C165948       | `HRO-TYPE-C-31-M-12` | USB-C Connector SMD |
 | C2848619      | `HRO_USB-C-SMD_TYPE-C-31-M-13C` | USB-C Connector SMD-board sink |
 | C605398       | `SOT-723_L1.2-W0.8-P0.40-LS1.2-BR` | ESD7L5.0DT5G 10.4V 5.4V 5V SOT-723-3 Electrostatic and Surge Protection (TVS/ESD) ROHS |
@@ -123,3 +123,10 @@ Y1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm,136.522,-83.255,-90,top
 
 Columns should be adjusted from the original KiCAD export file since
 JLCPCB requires some columns.  See JLCPCB website for more details.
+
+## Other Useful Resources
+
+* RP2040 based board design
+    * [RP2040 KiCad 6 Hardware Design - Part 1 - Schematic](https://www.youtube.com/watch?v=RNH-CL8GrF8)
+    * [RP2040 KiCad 6 Hardware Design - Part 2 - PCB](https://www.youtube.com/watch?v=ios9tLiMyLs)
+
