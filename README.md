@@ -2,24 +2,36 @@
 
 KiCad library for various projects.  mainly keyboard and arcade controller related.
 
-## External Resources Used
+## Library Listing and sources
 
 Check for the Licenses for each item.
 
-### RP2040
+### RP2040.pretty
 
 Symbol library and basic component footprint obtained from 
 [Hardware Design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
 [minimal design example schematics and layout files](https://datasheets.raspberrypi.com/rp2040/Minimal-KiCAD.zip)
 
-### Key Switches
+### External Repositories
 
-* [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty)
-* [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch)
+* ai03-2725_Type-C.pretty
+    * [ai03-2725/Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty)
+* daprice_keyswitches.pretty
+    * [daprice/keyswitches.pretty](https://github.com/daprice/keyswitches.pretty)
+* kiswitch_kiswitch
+    * [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch)
 
-### Type-C Connectors
+### mzm_LCSC
 
-* [ai03-2725/Type-C.pretty](https://github.com/ai03-2725/Type-C.pretty)
+Imported from [LCSC](https://www.lcsc.com/).  Useful for JLCPCB PCB Assembly service since 
+JLCPCB uses LCSC and their footprint library as their Pick-and-Place machine coordinates.
+
+See the LCSC Part information section below for the LCSC Part number information for the
+list of parts used in this library.
+
+### mzm_misc
+
+Random footprint libraries created by @mizma.
 
 ## LCSC Part information
 
