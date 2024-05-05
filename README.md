@@ -61,6 +61,7 @@ Some Footprint parts I use on Keyboard/GP2040-CE projects
 | C97521        | `Package_SO:SOIC-8_5.23x5.23mm_P1.27mm` | 128Mb Serial Flash Memory, Standard/Dual/Quad SPI, SOIC-8 |
 | C165948       | `HRO-TYPE-C-31-M-12` | USB-C Connector SMD |
 | C2848619      | `HRO_USB-C-SMD_TYPE-C-31-M-13C` | USB-C Connector SMD-board sink |
+| C605398       | `SOT-723_L1.2-W0.8-P0.40-LS1.2-BR` | ESD7L5.0DT5G 10.4V 5.4V 5V SOT-723-3 Electrostatic and Surge Protection (TVS/ESD) ROHS |
 
 ### Adding parts in JLCPCB PCBA service
 
