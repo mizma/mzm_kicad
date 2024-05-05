@@ -10,6 +10,7 @@ Check for the Licenses for each item.
 
 Symbol library and basic component footprint obtained from 
 [Hardware Design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
+[minimal design example schematics and layout files](https://datasheets.raspberrypi.com/rp2040/Minimal-KiCAD.zip)
 
 ### Key Switches
 
