@@ -1,4 +1,4 @@
-(footprint "trrs_jack2"
+(footprint "TRRS_jack_reversible"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "trrs_jack2"
+	(property "Footprint" "TRRS_jack_reversible"
 		(at 6 5.5 -90)
 		(unlocked yes)
 		(layer "F.Fab")
