@@ -8,8 +8,8 @@ Check for the Licenses for each item.
 
 ### RP2040
 
-* Symbol library
-    * https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf
+Symbol library and basic component footprint obtained from 
+[Hardware Design with RP2040](https://datasheets.raspberrypi.com/rp2040/hardware-design-with-rp2040.pdf)
 
 ### Key Switches
 
